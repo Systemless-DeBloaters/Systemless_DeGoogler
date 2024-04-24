@@ -47,7 +47,7 @@ This module doesn't leave anything permanent on your phone and everything is rev
   <img src="Screenshots/MIUI12.5/2.jpg" width="25%">
 </details>
 
-TinaOS 1.0 (HyperOS 1)
+TinaOS 1.0 (HyperOS 1 - Android 14)
 
 Pixel Experience (Android 14)
 
