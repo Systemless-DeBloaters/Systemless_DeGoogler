@@ -1,0 +1,24 @@
+name: Release Workflow
+
+on:
+  release:
+    types: [created]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Run build script
+      run: |
+        chmod +x Tools/build.sh
+        ./Tools/build.sh ${{ github.event.release.tag_name }}
+
+    - name: Upload artifact
+      uses: actions/upload-artifact@v2
+      with:
+        name: Systemless-DeGoogler-${{ github.event.release.tag_name }}.zip
+        path: Systemless-DeGoogler-${{ github.event.release.tag_name }}.zip
