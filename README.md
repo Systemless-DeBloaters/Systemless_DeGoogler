@@ -6,7 +6,6 @@ Being systemless means that if anything goes wrong or you don't feel like DeGoog
 This module doesn't leave anything permanent on your phone and everything is revertable to the original state just by disabling the module :D
 
 ### Screenshots of the installation process:
-</details>
 <details>
   <summary>Waiting to choose Installation method</summary>
 
@@ -47,6 +46,8 @@ This module doesn't leave anything permanent on your phone and everything is rev
   <img src="Screenshots/MIUI12.5/1.jpg" width="25%">
   <img src="Screenshots/MIUI12.5/2.jpg" width="25%">
 </details>
+
+TinaOS 1.0 (HyperOS 1)
 
 Pixel Experience (Android 14)
 
