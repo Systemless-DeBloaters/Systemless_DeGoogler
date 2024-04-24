@@ -1,0 +1,1 @@
+wget -O - https://raw.githubusercontent.com/Systemless-DeBloaters/Framework/main/build.sh | bash -s $1

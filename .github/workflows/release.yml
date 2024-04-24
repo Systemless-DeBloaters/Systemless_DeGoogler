@@ -19,9 +19,10 @@ jobs:
 
     - name: Run build script
       run: |
-        chmod +x Tools/build.sh
-        ./Tools/build.sh ${{ github.event.release.tag_name }}
+        chmod +x build.sh
+        ./build.sh ${{ github.event.release.tag_name }}
 
     - name: Upload artifact
       run: |
-        gh release upload ${{github.event.release.tag_name}} Systemless-DeGoogler-${{ github.event.release.tag_name }}.zip
+        mod_id=$(grep "id=" module.prop | cut -d'=' -f2-)
+        gh release upload ${{github.event.release.tag_name}} $mod_id-${{ github.event.release.tag_name }}.zip
