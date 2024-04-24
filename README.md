@@ -2,6 +2,7 @@
 ### DeGoogle your phone without any risk and hassle!
 
 Being systemless means that if anything goes wrong or you don't feel like DeGoogle-ing anymore, you can just disable the module from Magisk Manager easily with one click, or remove it with your recovery from /data/adb/modules :)
+
 This module doesn't leave anything permanent on your phone and everything is revertable to the original state just by disabling the module :D
 
 ### Screenshots of the installation process:
