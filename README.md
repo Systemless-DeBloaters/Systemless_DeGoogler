@@ -5,26 +5,6 @@ Being systemless means that if anything goes wrong or you don't feel like DeGoog
 
 This module doesn't leave anything permanent on your phone and everything is revertable to the original state just by disabling the module :D
 
-### Screenshots of the installation process:
-<details>
-  <summary>Waiting to choose Installation method</summary>
-
-  <img src="Screenshots/Installation/Waiting.jpg" width="25%">
-</details>
-
-<details>
-  <summary>Default Installation</summary>
-
-  <img src="Screenshots/Installation/Default-1.jpg" width="25%">
-  <img src="Screenshots/Installation/Default-2.jpg" width="25%">
-
-</details>
-<details>
-  <summary>Custom Installation</summary>
-
-  <img src="Screenshots/Installation/Custom.jpg" width="25%">
-</details>
-
 ### Tested on:
 ColorOS (Android 8.1)
 
