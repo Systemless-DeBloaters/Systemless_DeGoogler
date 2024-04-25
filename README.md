@@ -26,6 +26,8 @@ This module doesn't leave anything permanent on your phone and everything is rev
 </details>
 
 ### Tested on:
+ColorOS (Android 8.1)
+
 <details>
   <summary>MIUI 10 (Android 9)</summary>
 
