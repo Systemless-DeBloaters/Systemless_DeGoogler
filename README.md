@@ -5,6 +5,10 @@ Being systemless means that if anything goes wrong or you don't feel like DeGoog
 
 This module doesn't leave anything permanent on your phone and everything is revertable to the original state just by disabling the module :D
 
+<div align="center">
+  Download from <a href="https://github.com/Systemless-DeBloaters/Systemless_DeGoogler/releases/latest">here</a> :)
+</div>
+
 ### Tested on:
 ColorOS (Android 8.1)
 
@@ -34,3 +38,5 @@ TinaOS 1.0 (HyperOS 1 - Android 14)
 Pixel Experience (Android 14)
 
 LineageOS (Android 14) + NikGapps Full
+
+(I don't have a pixel phone to test the module on, so I tried the module on the closest things I have access to, NikGapps Full and PE :D )
